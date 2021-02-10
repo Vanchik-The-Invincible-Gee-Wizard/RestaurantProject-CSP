@@ -1,0 +1,76 @@
+    body{
+      margin: 0px;
+      background-color: #F2AA4C;
+      }
+      ul{
+        background-color: #101820;
+        float: left;
+        height: 100%;
+        border: 10px solid #ffffe8;
+        margin: 0px;
+        padding: 10px;
+      }
+      #sideBar{
+        display: block;
+        font-size: 20px;
+        font-family: Quicksand;
+        list-style: none;
+        color: #F2AA4C;
+        padding-bottom: 20px; /*could aslo use MARGIN*/
+        padding-left: 20px;
+      }
+      #sideBar:hover{
+        height: 50px;
+        width: 150px;
+      }
+      .items{
+        text-decoration: none;
+        color:#F2AA4C;
+        font-size: 20px;
+        font-family: Lobster;
+      }
+      #topBar{
+        display: inline;
+        float: right;
+        font-size: 20px;
+        font-family: Quicksand;
+        list-style: none;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      #top{
+        background-color: #101820;
+        width: 100%;
+        height: 60px;
+      }
+      a:hover{
+        background-color: #392613;
+        height: 70px;
+      }
+      a{
+        height: 70px;
+        display: block;
+        text-decoration: none;
+        color:#F2AA4C;
+        height: 50px;
+        width: 150px;
+      }
+      img{
+        border: 10px solid #000000;
+      }
+      #content{
+        text-align: center;
+        color: #101820;
+      }
+      hr{
+        border: 3px solid #ffffe8;
+      }
+      h1{
+        font-family: Lobster;
+      }
+      h3{
+        font-family: Quicksand;
+      }
+      p{
+        font-family: Quicksand;
+      }
